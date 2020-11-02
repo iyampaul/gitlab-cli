@@ -1,0 +1,10 @@
+{
+	"instance":[
+		{
+			"url":"gitlab-instance/api/",
+			"version":"v4/",
+			"tls_check": true,
+			"token":"optional-api-token"
+		}
+	]
+}
